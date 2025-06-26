@@ -1,4 +1,4 @@
-# Lakshmi Smart Waste Management System
+![Screenshot 2025-01-07 102809](https://github.com/user-attachments/assets/6f64c4a4-46fe-4875-a0a1-fe1b4a277243)# Lakshmi Smart Waste Management System
 
 ## Overview
 
@@ -26,14 +26,14 @@ The **Lakshmi Smart Waste Management System** is an innovative solution designed
 ### 1. Optimized Waste Collection
 
 Real-time sensor data tracks bin levels, ensuring efficient collection and reduced operational costs.
-![Real-time Monitoring](https://github.com/user-attachments/assets/73f2acb5-cdcd-41e9-aa34-07f1347d41d2)
+![Real-time Monitoring](https://github.com/user-attachments/assets/a8315530-5513-43e3-a541-2e4bbc7b5715)
 
 ---
 
 ### 2. Preventing Overflow & Littering
 
 Predictive models forecast waste patterns, especially during public events, reducing the chance of overflow.
-![Prediction in Action](https://github.com/user-attachments/assets/002b7e7a-d0c0-4a19-a169-6bed088c5ed6)
+![Prediction in Action](https://github.com/user-attachments/assets/ab871093-86ae-49ef-bf9d-df186e79b358)
 
 ---
 
