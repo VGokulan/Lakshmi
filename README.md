@@ -1,4 +1,4 @@
-![Screenshot 2025-01-07 102809](https://github.com/user-attachments/assets/6f64c4a4-46fe-4875-a0a1-fe1b4a277243)# Lakshmi Smart Waste Management System
+# Lakshmi Smart Waste Management System
 
 ## Overview
 
