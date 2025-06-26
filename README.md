@@ -41,15 +41,18 @@ Predictive models forecast waste patterns, especially during public events, redu
 
 When an event is scheduled, the system automatically allocates garbage collection resources at the event location via the app.
 ![Event Allocation](https://github.com/user-attachments/assets/8623452d-126f-4129-b493-da59d25bbce1)
-![Dynamic Allocation UI](https://github.com/user-attachments/assets/d2bb238e-000f-425b-848d-55442be44109)
+![Dynamic Allocation UI](https://github.com/user-attachments/assets/71833b44-1bd1-414f-8cec-73d6bb85765b)
+
 
 ---
 
 ### 4. Immediate Response to Cleanliness Issues
 
 A public photo-reporting feature enables rapid response to cleanliness complaints.
-![Photo Reporting](https://github.com/user-attachments/assets/e55a5e52-dc91-4e3e-883d-9f853d933465)
-![Complaint Management](https://github.com/user-attachments/assets/6ae5a22d-b055-4e38-ba84-7476e664ff0e)
+![Photo Reporting](https://github.com/user-attachments/assets/37c00237-4ff2-4336-8d57-21239e476c3e)
+
+![Complaint Management](https://github.com/user-attachments/assets/2975e959-b69b-4943-baed-850bf60c926f)
+
 
 ---
 
@@ -63,8 +66,10 @@ Predictive vehicle allocation minimizes fuel usage and vehicle wear and tear.
 ### 6. Announcements
 
 Events and critical updates can be broadcast to users and authorities to coordinate actions.
-![Announcements Panel](https://github.com/user-attachments/assets/35c15af0-4d41-409f-aa0a-974ff15b1cfe)
-![Event Notification](https://github.com/user-attachments/assets/c3f1d7f4-fe13-4f5a-875b-a99b13005cb2)
+![Announcements Panel](https://github.com/user-attachments/assets/df5fcab8-07f5-46ab-87ba-3d4b55b3fd49)
+
+![Event Notification](https://github.com/user-attachments/assets/86518b20-ad33-48ff-89ba-a0852dcaac57)
+
 
 ---
 
