@@ -40,7 +40,8 @@ Predictive models forecast waste patterns, especially during public events, redu
 ### 3. Dynamic Event-Based Allocation
 
 When an event is scheduled, the system automatically allocates garbage collection resources at the event location via the app.
-![Event Allocation](https://github.com/user-attachments/assets/8623452d-126f-4129-b493-da59d25bbce1)
+![Event Allocation](https://github.com/user-attachments/assets/a1c66967-e540-4956-8999-4a49be12a12f)
+
 ![Dynamic Allocation UI](https://github.com/user-attachments/assets/71833b44-1bd1-414f-8cec-73d6bb85765b)
 
 
@@ -59,7 +60,7 @@ A public photo-reporting feature enables rapid response to cleanliness complaint
 ### 5. Efficient Fleet Utilization
 
 Predictive vehicle allocation minimizes fuel usage and vehicle wear and tear.
-![Fleet Efficiency](https://github.com/user-attachments/assets/7dfba954-db23-4a84-990a-c32378eb6b46)
+![Fleet Efficiency](https://github.com/user-attachments/assets/cbe3d895-32ae-4685-ba20-8ff173b95098)
 
 ---
 
