@@ -185,6 +185,7 @@ smart-waste-management/
 └── README.md
 ```
 
-![Folder Structure](https://github.com/user-attachments/assets/be5bb119-7b27-4e64-a66c-50029ab00a90)
+![Folder Structure](https://github.com/user-attachments/assets/10082c96-73a7-46a9-92b7-2f5ec8c81e93)
+
 
 ---
