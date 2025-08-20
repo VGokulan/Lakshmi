@@ -20,7 +20,7 @@ const Homepage = () => {
     });
   }, []);
 
-  const apiKey = "AIzaSyAZUGoqEFEKNUM30vpCm4Qs1pZkeacFVsA"; // Replace with your API key
+  const apiKey = "##############################"; // Replace with your API key
   return (
     <Layout>
       {!topLocations[0] || !blocs.bins ? (
