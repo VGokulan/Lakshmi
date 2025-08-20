@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_55c89e37b26692c43fa483045f429990 {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_55c89e37b26692c43fa483045f429990" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_55c89e37b26692c43fa483045f429990 = L.map(
+                "map_55c89e37b26692c43fa483045f429990",
+                {
+                    center: [11.9289978, 79.79994289999999],
+                    crs: L.CRS.EPSG3857,
+                    zoom: 13,
+                    zoomControl: true,
+                    preferCanvas: false,
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_3c93b6cbc801f5ea0a51ce950dd4554d = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {"attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors", "detectRetina": false, "maxNativeZoom": 19, "maxZoom": 19, "minZoom": 0, "noWrap": false, "opacity": 1, "subdomains": "abc", "tms": false}
+            );
+        
+    
+            tile_layer_3c93b6cbc801f5ea0a51ce950dd4554d.addTo(map_55c89e37b26692c43fa483045f429990);
+        
+    
+            var poly_line_3d6732866ae3dbb8cfc152767297e361 = L.polyline(
+                [[11.929, 79.79994], [11.92908, 79.80087], [11.92911, 79.80188], [11.92915, 79.80265], [11.92998, 79.8026], [11.931, 79.80255], [11.93149, 79.80251], [11.93143, 79.80197], [11.93138, 79.80128], [11.93131, 79.80113], [11.93131, 79.80097], [11.93121, 79.79991], [11.93118, 79.7995], [11.9311, 79.79851], [11.93102, 79.79745], [11.93089, 79.79617], [11.93078, 79.79471], [11.93077, 79.79303], [11.93077, 79.79158], [11.93081, 79.79016], [11.93083, 79.78875], [11.93087, 79.78603], [11.93161, 79.78602], [11.93204, 79.78598], [11.93432, 79.78584], [11.93548, 79.78579], [11.93592, 79.78579], [11.93605, 79.78581], [11.93667, 79.78608], [11.93706, 79.78628], [11.93751, 79.78647], [11.93771, 79.78655], [11.9379, 79.7866], [11.93935, 79.78689], [11.93953, 79.7869], [11.93962, 79.7869], [11.93963, 79.78683], [11.93986, 79.7859], [11.9401, 79.78496], [11.94012, 79.78476], [11.94006, 79.78424], [11.93988, 79.78299], [11.93968, 79.78155], [11.93964, 79.78023], [11.93962, 79.77995], [11.93945, 79.77877], [11.93933, 79.77815], [11.93924, 79.7778], [11.93921, 79.77753], [11.93911, 79.77701], [11.93909, 79.7767], [11.93912, 79.77601], [11.93916, 79.77569], [11.9392, 79.77535], [11.93923, 79.77508], [11.93927, 79.77479], [11.93935, 79.7744], [11.93944, 79.77333], [11.93935, 79.7744], [11.93927, 79.77479], [11.93923, 79.77508], [11.9392, 79.77535], [11.93916, 79.77569], [11.93912, 79.77601], [11.93909, 79.7767], [11.93911, 79.77701], [11.93921, 79.77753], [11.93924, 79.7778], [11.93933, 79.77815], [11.93945, 79.77877], [11.93962, 79.77995], [11.93964, 79.78021], [11.93964, 79.78023], [11.93968, 79.78155], [11.93988, 79.78299], [11.94006, 79.78424], [11.94012, 79.78476], [11.9401, 79.78496], [11.93963, 79.78683], [11.93962, 79.7869], [11.93953, 79.7869], [11.93935, 79.78689], [11.9379, 79.7866], [11.93771, 79.78655], [11.93751, 79.78647], [11.93706, 79.78628], [11.93667, 79.78608], [11.93605, 79.78581], [11.93592, 79.78579], [11.93548, 79.78579], [11.93432, 79.78584], [11.93204, 79.78598], [11.93161, 79.78602], [11.93094, 79.78603], [11.93092, 79.78632], [11.9309, 79.78781], [11.9309, 79.78809], [11.93088, 79.78927], [11.93086, 79.79056], [11.93084, 79.79157], [11.93083, 79.79264], [11.93086, 79.79454], [11.93095, 79.79616], [11.93108, 79.79745], [11.93117, 79.79853], [11.93131, 79.80016], [11.9314, 79.80113], [11.93138, 79.80128], [11.93142, 79.80177], [11.93147, 79.80231], [11.93149, 79.80251], [11.93113, 79.80254], [11.93076, 79.80256], [11.93041, 79.80257], [11.92956, 79.80262], [11.92915, 79.80265], [11.92913, 79.80227], [11.92909, 79.80138], [11.92906, 79.80052], [11.929, 79.79994], [11.92906, 79.80052], [11.92909, 79.80138], [11.92913, 79.80227], [11.92915, 79.80265], [11.92956, 79.80262], [11.93041, 79.80257], [11.93076, 79.80256], [11.93113, 79.80254], [11.93149, 79.80251], [11.93147, 79.80231], [11.93142, 79.80177], [11.93138, 79.80128], [11.93131, 79.80113], [11.93123, 79.80016], [11.93118, 79.7995], [11.93113, 79.79887], [11.93105, 79.79783], [11.93092, 79.79649], [11.93083, 79.79536], [11.93078, 79.79454], [11.93077, 79.79335], [11.93076, 79.7918], [11.93081, 79.79051], [11.93081, 79.78928], [11.93083, 79.78809], [11.93086, 79.7863], [11.93087, 79.78603], [11.93094, 79.78603], [11.93161, 79.78602], [11.93192, 79.78599], [11.9323, 79.78597], [11.93406, 79.78585], [11.93523, 79.7858], [11.93587, 79.78579], [11.93599, 79.7858], [11.93635, 79.78594], [11.93667, 79.78608], [11.93706, 79.78628], [11.93751, 79.78648], [11.93781, 79.78658], [11.93878, 79.78677], [11.93945, 79.7869], [11.93962, 79.7869], [11.93969, 79.78656], [11.93995, 79.78556], [11.94011, 79.78485], [11.94012, 79.78465], [11.93989, 79.78307], [11.93978, 79.78238], [11.93967, 79.78134], [11.93963, 79.78005], [11.93945, 79.77877], [11.93924, 79.7778], [11.93909, 79.77689], [11.93912, 79.77601], [11.93918, 79.77555], [11.93927, 79.77479], [11.93935, 79.7744], [11.9394, 79.77388], [11.93945, 79.77328], [11.93963, 79.77221], [11.9398, 79.77143], [11.94004, 79.77066], [11.94042, 79.76946], [11.94127, 79.76657], [11.94135, 79.76623], [11.94136, 79.76607], [11.94135, 79.76585], [11.94113, 79.76432], [11.94088, 79.76269], [11.93978, 79.76273], [11.93944, 79.76268], [11.93778, 79.76252], [11.93622, 79.76239], [11.93589, 79.76236], [11.93569, 79.76237], [11.93563, 79.76239], [11.93559, 79.76244]],
+                {"bubblingMouseEvents": true, "color": "blue", "dashArray": null, "dashOffset": null, "fill": false, "fillColor": "blue", "fillOpacity": 0.2, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "noClip": false, "opacity": 1, "smoothFactor": 1.0, "stroke": true, "weight": 2.5}
+            ).addTo(map_55c89e37b26692c43fa483045f429990);
+        
+    
+            var marker_68daff74a3223318aa999b4cf3a21cc9 = L.marker(
+                [11.9289978, 79.79994289999999],
+                {}
+            ).addTo(map_55c89e37b26692c43fa483045f429990);
+        
+    
+            var icon_a1f2728ee7cf79169e521dd3daa1adad = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "green", "prefix": "glyphicon"}
+            );
+            marker_68daff74a3223318aa999b4cf3a21cc9.setIcon(icon_a1f2728ee7cf79169e521dd3daa1adad);
+        
+    
+            marker_68daff74a3223318aa999b4cf3a21cc9.bindTooltip(
+                `<div>
+                     Start
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_cefc34ed6bc849119ccde9a5ca5bf330 = L.marker(
+                [11.9394227, 79.7733109],
+                {}
+            ).addTo(map_55c89e37b26692c43fa483045f429990);
+        
+    
+            marker_cefc34ed6bc849119ccde9a5ca5bf330.bindTooltip(
+                `<div>
+                     Oulgaret Puducherry
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_34d5703e67d87f15ebd07797dd484171 = L.marker(
+                [11.9289978, 79.79994289999999],
+                {}
+            ).addTo(map_55c89e37b26692c43fa483045f429990);
+        
+    
+            marker_34d5703e67d87f15ebd07797dd484171.bindTooltip(
+                `<div>
+                     Reddiarpalayam Puducherry
+                 </div>`,
+                {"sticky": true}
+            );
+        
+    
+            var marker_8cfe2e1fb14bef778478ca8e607b70e2 = L.marker(
+                [11.934993, 79.7623582],
+                {}
+            ).addTo(map_55c89e37b26692c43fa483045f429990);
+        
+    
+            var icon_1639b0d019799961cc4d60a2a342d3fc = L.AwesomeMarkers.icon(
+                {"extraClasses": "fa-rotate-0", "icon": "info-sign", "iconColor": "white", "markerColor": "red", "prefix": "glyphicon"}
+            );
+            marker_8cfe2e1fb14bef778478ca8e607b70e2.setIcon(icon_1639b0d019799961cc4d60a2a342d3fc);
+        
+    
+            marker_8cfe2e1fb14bef778478ca8e607b70e2.bindTooltip(
+                `<div>
+                     End
+                 </div>`,
+                {"sticky": true}
+            );
+        
+</script>
+</html>

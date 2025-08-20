@@ -1,0 +1,811 @@
+Location,Predicted Fill Level (%),Weight (kg),Day,Holiday
+"White Town, Puducherry",99,395,Day 1,0
+"White Town, Puducherry",18,75,Day 2,0
+"White Town, Puducherry",70,795,Day 3,1
+"White Town, Puducherry",94,383,Day 4,1
+"White Town, Puducherry",82,505,Day 5,0
+"White Town, Puducherry",15,884,Day 6,0
+"White Town, Puducherry",98,395,Day 7,0
+"White Town, Puducherry",51,890,Day 8,0
+"White Town, Puducherry",99,564,Day 9,0
+"White Town, Puducherry",15,568,Day 10,0
+"White Town, Puducherry",52,41,Day 11,1
+"White Town, Puducherry",38,397,Day 12,0
+"White Town, Puducherry",4,162,Day 13,0
+"White Town, Puducherry",92,234,Day 14,0
+"White Town, Puducherry",17,750,Day 15,1
+"White Town, Puducherry",8,73,Day 16,1
+"White Town, Puducherry",16,252,Day 17,1
+"White Town, Puducherry",6,173,Day 18,0
+"White Town, Puducherry",39,169,Day 19,0
+"White Town, Puducherry",49,794,Day 20,1
+"White Town, Puducherry",65,516,Day 21,0
+"White Town, Puducherry",36,421,Day 22,0
+"White Town, Puducherry",7,495,Day 23,0
+"White Town, Puducherry",64,341,Day 24,1
+"White Town, Puducherry",16,510,Day 25,0
+"White Town, Puducherry",88,300,Day 26,1
+"White Town, Puducherry",35,69,Day 27,1
+"White Town, Puducherry",30,786,Day 28,0
+"White Town, Puducherry",53,166,Day 29,0
+"White Town, Puducherry",73,857,Day 30,0
+"Lawspet, Puducherry",38,125,Day 1,0
+"Lawspet, Puducherry",44,652,Day 2,1
+"Lawspet, Puducherry",91,637,Day 3,1
+"Lawspet, Puducherry",19,475,Day 4,1
+"Lawspet, Puducherry",60,894,Day 5,0
+"Lawspet, Puducherry",38,0,Day 6,0
+"Lawspet, Puducherry",76,347,Day 7,1
+"Lawspet, Puducherry",62,507,Day 8,0
+"Lawspet, Puducherry",24,823,Day 9,0
+"Lawspet, Puducherry",37,116,Day 10,1
+"Lawspet, Puducherry",57,555,Day 11,0
+"Lawspet, Puducherry",31,172,Day 12,0
+"Lawspet, Puducherry",46,148,Day 13,1
+"Lawspet, Puducherry",84,202,Day 14,1
+"Lawspet, Puducherry",100,675,Day 15,0
+"Lawspet, Puducherry",18,531,Day 16,0
+"Lawspet, Puducherry",17,46,Day 17,0
+"Lawspet, Puducherry",48,525,Day 18,0
+"Lawspet, Puducherry",30,512,Day 19,0
+"Lawspet, Puducherry",53,885,Day 20,0
+"Lawspet, Puducherry",15,470,Day 21,0
+"Lawspet, Puducherry",74,11,Day 22,1
+"Lawspet, Puducherry",95,783,Day 23,1
+"Lawspet, Puducherry",75,407,Day 24,1
+"Lawspet, Puducherry",7,121,Day 25,1
+"Lawspet, Puducherry",35,89,Day 26,1
+"Lawspet, Puducherry",57,315,Day 27,1
+"Lawspet, Puducherry",27,731,Day 28,0
+"Lawspet, Puducherry",40,739,Day 29,1
+"Lawspet, Puducherry",26,501,Day 30,0
+"Muthialpet, Puducherry",16,200,Day 1,0
+"Muthialpet, Puducherry",83,460,Day 2,1
+"Muthialpet, Puducherry",28,908,Day 3,1
+"Muthialpet, Puducherry",34,252,Day 4,1
+"Muthialpet, Puducherry",81,882,Day 5,1
+"Muthialpet, Puducherry",68,814,Day 6,0
+"Muthialpet, Puducherry",65,9,Day 7,1
+"Muthialpet, Puducherry",29,241,Day 8,0
+"Muthialpet, Puducherry",4,118,Day 9,1
+"Muthialpet, Puducherry",32,373,Day 10,0
+"Muthialpet, Puducherry",17,223,Day 11,0
+"Muthialpet, Puducherry",48,778,Day 12,0
+"Muthialpet, Puducherry",25,62,Day 13,0
+"Muthialpet, Puducherry",85,826,Day 14,0
+"Muthialpet, Puducherry",48,460,Day 15,0
+"Muthialpet, Puducherry",97,104,Day 16,0
+"Muthialpet, Puducherry",0,404,Day 17,1
+"Muthialpet, Puducherry",54,517,Day 18,1
+"Muthialpet, Puducherry",80,708,Day 19,0
+"Muthialpet, Puducherry",4,869,Day 20,0
+"Muthialpet, Puducherry",52,22,Day 21,0
+"Muthialpet, Puducherry",52,676,Day 22,1
+"Muthialpet, Puducherry",73,82,Day 23,0
+"Muthialpet, Puducherry",84,77,Day 24,0
+"Muthialpet, Puducherry",0,50,Day 25,0
+"Muthialpet, Puducherry",76,771,Day 26,1
+"Muthialpet, Puducherry",64,880,Day 27,1
+"Muthialpet, Puducherry",31,33,Day 28,1
+"Muthialpet, Puducherry",94,71,Day 29,0
+"Muthialpet, Puducherry",25,249,Day 30,1
+"Kalapet, Puducherry",53,117,Day 1,0
+"Kalapet, Puducherry",49,267,Day 2,0
+"Kalapet, Puducherry",53,235,Day 3,0
+"Kalapet, Puducherry",93,733,Day 4,0
+"Kalapet, Puducherry",56,400,Day 5,1
+"Kalapet, Puducherry",46,918,Day 6,0
+"Kalapet, Puducherry",100,852,Day 7,1
+"Kalapet, Puducherry",65,74,Day 8,0
+"Kalapet, Puducherry",37,703,Day 9,1
+"Kalapet, Puducherry",97,805,Day 10,1
+"Kalapet, Puducherry",97,849,Day 11,1
+"Kalapet, Puducherry",78,858,Day 12,0
+"Kalapet, Puducherry",62,993,Day 13,1
+"Kalapet, Puducherry",37,480,Day 14,1
+"Kalapet, Puducherry",78,541,Day 15,0
+"Kalapet, Puducherry",50,80,Day 16,0
+"Kalapet, Puducherry",28,899,Day 17,1
+"Kalapet, Puducherry",55,400,Day 18,1
+"Kalapet, Puducherry",16,507,Day 19,1
+"Kalapet, Puducherry",87,68,Day 20,1
+"Kalapet, Puducherry",5,52,Day 21,1
+"Kalapet, Puducherry",76,125,Day 22,0
+"Kalapet, Puducherry",42,751,Day 23,0
+"Kalapet, Puducherry",22,182,Day 24,1
+"Kalapet, Puducherry",94,970,Day 25,1
+"Kalapet, Puducherry",15,519,Day 26,1
+"Kalapet, Puducherry",3,695,Day 27,0
+"Kalapet, Puducherry",66,863,Day 28,0
+"Kalapet, Puducherry",26,92,Day 29,1
+"Kalapet, Puducherry",49,60,Day 30,1
+"Mudaliarpet, Puducherry",50,402,Day 1,0
+"Mudaliarpet, Puducherry",4,465,Day 2,1
+"Mudaliarpet, Puducherry",41,828,Day 3,1
+"Mudaliarpet, Puducherry",20,837,Day 4,0
+"Mudaliarpet, Puducherry",4,232,Day 5,1
+"Mudaliarpet, Puducherry",89,45,Day 6,1
+"Mudaliarpet, Puducherry",48,77,Day 7,1
+"Mudaliarpet, Puducherry",44,922,Day 8,0
+"Mudaliarpet, Puducherry",25,248,Day 9,0
+"Mudaliarpet, Puducherry",85,238,Day 10,1
+"Mudaliarpet, Puducherry",93,106,Day 11,0
+"Mudaliarpet, Puducherry",47,572,Day 12,0
+"Mudaliarpet, Puducherry",25,803,Day 13,0
+"Mudaliarpet, Puducherry",7,624,Day 14,0
+"Mudaliarpet, Puducherry",51,718,Day 15,0
+"Mudaliarpet, Puducherry",55,725,Day 16,1
+"Mudaliarpet, Puducherry",89,27,Day 17,0
+"Mudaliarpet, Puducherry",77,215,Day 18,1
+"Mudaliarpet, Puducherry",25,525,Day 19,0
+"Mudaliarpet, Puducherry",55,882,Day 20,0
+"Mudaliarpet, Puducherry",2,622,Day 21,0
+"Mudaliarpet, Puducherry",17,505,Day 22,1
+"Mudaliarpet, Puducherry",98,882,Day 23,0
+"Mudaliarpet, Puducherry",63,984,Day 24,0
+"Mudaliarpet, Puducherry",100,27,Day 25,1
+"Mudaliarpet, Puducherry",38,952,Day 26,0
+"Mudaliarpet, Puducherry",85,473,Day 27,1
+"Mudaliarpet, Puducherry",43,536,Day 28,0
+"Mudaliarpet, Puducherry",12,211,Day 29,0
+"Mudaliarpet, Puducherry",67,393,Day 30,0
+"Oulgaret, Puducherry",17,110,Day 1,1
+"Oulgaret, Puducherry",85,33,Day 2,0
+"Oulgaret, Puducherry",7,935,Day 3,0
+"Oulgaret, Puducherry",82,553,Day 4,0
+"Oulgaret, Puducherry",100,517,Day 5,1
+"Oulgaret, Puducherry",25,319,Day 6,1
+"Oulgaret, Puducherry",58,951,Day 7,0
+"Oulgaret, Puducherry",69,740,Day 8,0
+"Oulgaret, Puducherry",32,436,Day 9,1
+"Oulgaret, Puducherry",20,709,Day 10,1
+"Oulgaret, Puducherry",3,349,Day 11,0
+"Oulgaret, Puducherry",61,829,Day 12,1
+"Oulgaret, Puducherry",94,663,Day 13,0
+"Oulgaret, Puducherry",8,758,Day 14,0
+"Oulgaret, Puducherry",30,39,Day 15,0
+"Oulgaret, Puducherry",35,919,Day 16,0
+"Oulgaret, Puducherry",5,321,Day 17,1
+"Oulgaret, Puducherry",91,74,Day 18,1
+"Oulgaret, Puducherry",78,645,Day 19,1
+"Oulgaret, Puducherry",93,503,Day 20,1
+"Oulgaret, Puducherry",50,573,Day 21,0
+"Oulgaret, Puducherry",65,846,Day 22,0
+"Oulgaret, Puducherry",7,25,Day 23,0
+"Oulgaret, Puducherry",44,299,Day 24,0
+"Oulgaret, Puducherry",69,409,Day 25,1
+"Oulgaret, Puducherry",67,786,Day 26,1
+"Oulgaret, Puducherry",96,531,Day 27,0
+"Oulgaret, Puducherry",11,558,Day 28,0
+"Oulgaret, Puducherry",89,653,Day 29,1
+"Oulgaret, Puducherry",37,804,Day 30,1
+"Jawaharlal Nehru Street, Puducherry",10,510,Day 1,1
+"Jawaharlal Nehru Street, Puducherry",76,258,Day 2,0
+"Jawaharlal Nehru Street, Puducherry",5,689,Day 3,1
+"Jawaharlal Nehru Street, Puducherry",9,260,Day 4,0
+"Jawaharlal Nehru Street, Puducherry",9,171,Day 5,1
+"Jawaharlal Nehru Street, Puducherry",12,167,Day 6,1
+"Jawaharlal Nehru Street, Puducherry",83,320,Day 7,0
+"Jawaharlal Nehru Street, Puducherry",100,328,Day 8,0
+"Jawaharlal Nehru Street, Puducherry",8,970,Day 9,0
+"Jawaharlal Nehru Street, Puducherry",23,549,Day 10,0
+"Jawaharlal Nehru Street, Puducherry",34,605,Day 11,0
+"Jawaharlal Nehru Street, Puducherry",48,580,Day 12,1
+"Jawaharlal Nehru Street, Puducherry",59,235,Day 13,1
+"Jawaharlal Nehru Street, Puducherry",77,884,Day 14,1
+"Jawaharlal Nehru Street, Puducherry",74,136,Day 15,1
+"Jawaharlal Nehru Street, Puducherry",75,994,Day 16,0
+"Jawaharlal Nehru Street, Puducherry",0,295,Day 17,1
+"Jawaharlal Nehru Street, Puducherry",21,571,Day 18,1
+"Jawaharlal Nehru Street, Puducherry",92,839,Day 19,0
+"Jawaharlal Nehru Street, Puducherry",100,269,Day 20,1
+"Jawaharlal Nehru Street, Puducherry",29,290,Day 21,0
+"Jawaharlal Nehru Street, Puducherry",36,4,Day 22,0
+"Jawaharlal Nehru Street, Puducherry",77,409,Day 23,1
+"Jawaharlal Nehru Street, Puducherry",3,600,Day 24,0
+"Jawaharlal Nehru Street, Puducherry",41,88,Day 25,1
+"Jawaharlal Nehru Street, Puducherry",39,839,Day 26,0
+"Jawaharlal Nehru Street, Puducherry",13,799,Day 27,0
+"Jawaharlal Nehru Street, Puducherry",37,864,Day 28,0
+"Jawaharlal Nehru Street, Puducherry",62,142,Day 29,0
+"Jawaharlal Nehru Street, Puducherry",24,144,Day 30,0
+"Thattanchavady, Puducherry",65,973,Day 1,0
+"Thattanchavady, Puducherry",50,38,Day 2,0
+"Thattanchavady, Puducherry",69,645,Day 3,0
+"Thattanchavady, Puducherry",6,178,Day 4,1
+"Thattanchavady, Puducherry",41,447,Day 5,1
+"Thattanchavady, Puducherry",14,622,Day 6,0
+"Thattanchavady, Puducherry",32,477,Day 7,0
+"Thattanchavady, Puducherry",26,419,Day 8,0
+"Thattanchavady, Puducherry",37,440,Day 9,0
+"Thattanchavady, Puducherry",100,410,Day 10,0
+"Thattanchavady, Puducherry",32,253,Day 11,1
+"Thattanchavady, Puducherry",85,833,Day 12,1
+"Thattanchavady, Puducherry",4,634,Day 13,1
+"Thattanchavady, Puducherry",96,117,Day 14,1
+"Thattanchavady, Puducherry",12,158,Day 15,0
+"Thattanchavady, Puducherry",99,876,Day 16,1
+"Thattanchavady, Puducherry",51,695,Day 17,0
+"Thattanchavady, Puducherry",28,647,Day 18,0
+"Thattanchavady, Puducherry",28,46,Day 19,1
+"Thattanchavady, Puducherry",75,684,Day 20,1
+"Thattanchavady, Puducherry",26,94,Day 21,0
+"Thattanchavady, Puducherry",35,291,Day 22,1
+"Thattanchavady, Puducherry",42,282,Day 23,0
+"Thattanchavady, Puducherry",19,10,Day 24,1
+"Thattanchavady, Puducherry",73,871,Day 25,1
+"Thattanchavady, Puducherry",5,711,Day 26,0
+"Thattanchavady, Puducherry",46,345,Day 27,1
+"Thattanchavady, Puducherry",11,217,Day 28,0
+"Thattanchavady, Puducherry",61,209,Day 29,0
+"Thattanchavady, Puducherry",96,622,Day 30,1
+"Villianur, Puducherry",59,682,Day 1,1
+"Villianur, Puducherry",99,323,Day 2,0
+"Villianur, Puducherry",36,839,Day 3,0
+"Villianur, Puducherry",91,798,Day 4,1
+"Villianur, Puducherry",8,50,Day 5,0
+"Villianur, Puducherry",77,295,Day 6,0
+"Villianur, Puducherry",85,778,Day 7,0
+"Villianur, Puducherry",0,813,Day 8,0
+"Villianur, Puducherry",20,345,Day 9,1
+"Villianur, Puducherry",35,181,Day 10,0
+"Villianur, Puducherry",56,0,Day 11,0
+"Villianur, Puducherry",53,566,Day 12,0
+"Villianur, Puducherry",39,910,Day 13,0
+"Villianur, Puducherry",46,968,Day 14,0
+"Villianur, Puducherry",8,201,Day 15,1
+"Villianur, Puducherry",56,116,Day 16,1
+"Villianur, Puducherry",40,802,Day 17,0
+"Villianur, Puducherry",24,601,Day 18,0
+"Villianur, Puducherry",37,385,Day 19,0
+"Villianur, Puducherry",81,474,Day 20,1
+"Villianur, Puducherry",90,528,Day 21,1
+"Villianur, Puducherry",42,954,Day 22,1
+"Villianur, Puducherry",50,181,Day 23,1
+"Villianur, Puducherry",24,966,Day 24,1
+"Villianur, Puducherry",69,500,Day 25,1
+"Villianur, Puducherry",32,176,Day 26,0
+"Villianur, Puducherry",62,661,Day 27,1
+"Villianur, Puducherry",27,881,Day 28,0
+"Villianur, Puducherry",48,966,Day 29,0
+"Villianur, Puducherry",83,360,Day 30,0
+"Auroville, Puducherry",19,629,Day 1,1
+"Auroville, Puducherry",91,62,Day 2,0
+"Auroville, Puducherry",48,326,Day 3,0
+"Auroville, Puducherry",95,140,Day 4,1
+"Auroville, Puducherry",86,434,Day 5,0
+"Auroville, Puducherry",55,722,Day 6,1
+"Auroville, Puducherry",31,669,Day 7,0
+"Auroville, Puducherry",48,428,Day 8,0
+"Auroville, Puducherry",29,143,Day 9,1
+"Auroville, Puducherry",18,17,Day 10,0
+"Auroville, Puducherry",77,370,Day 11,0
+"Auroville, Puducherry",65,501,Day 12,1
+"Auroville, Puducherry",93,677,Day 13,0
+"Auroville, Puducherry",62,643,Day 14,0
+"Auroville, Puducherry",7,924,Day 15,0
+"Auroville, Puducherry",2,799,Day 16,1
+"Auroville, Puducherry",73,978,Day 17,1
+"Auroville, Puducherry",33,379,Day 18,0
+"Auroville, Puducherry",86,54,Day 19,1
+"Auroville, Puducherry",31,177,Day 20,0
+"Auroville, Puducherry",92,7,Day 21,0
+"Auroville, Puducherry",56,758,Day 22,0
+"Auroville, Puducherry",87,982,Day 23,0
+"Auroville, Puducherry",71,53,Day 24,0
+"Auroville, Puducherry",100,578,Day 25,0
+"Auroville, Puducherry",96,603,Day 26,0
+"Auroville, Puducherry",7,417,Day 27,0
+"Auroville, Puducherry",95,87,Day 28,1
+"Auroville, Puducherry",31,119,Day 29,1
+"Auroville, Puducherry",15,451,Day 30,1
+"Puducherry Beach, Puducherry",36,181,Day 1,0
+"Puducherry Beach, Puducherry",13,734,Day 2,0
+"Puducherry Beach, Puducherry",47,977,Day 3,0
+"Puducherry Beach, Puducherry",73,774,Day 4,0
+"Puducherry Beach, Puducherry",22,84,Day 5,0
+"Puducherry Beach, Puducherry",18,547,Day 6,0
+"Puducherry Beach, Puducherry",59,81,Day 7,1
+"Puducherry Beach, Puducherry",0,814,Day 8,0
+"Puducherry Beach, Puducherry",19,522,Day 9,1
+"Puducherry Beach, Puducherry",1,706,Day 10,0
+"Puducherry Beach, Puducherry",11,531,Day 11,0
+"Puducherry Beach, Puducherry",36,933,Day 12,1
+"Puducherry Beach, Puducherry",93,904,Day 13,1
+"Puducherry Beach, Puducherry",52,939,Day 14,0
+"Puducherry Beach, Puducherry",85,363,Day 15,1
+"Puducherry Beach, Puducherry",80,713,Day 16,1
+"Puducherry Beach, Puducherry",58,726,Day 17,1
+"Puducherry Beach, Puducherry",95,720,Day 18,1
+"Puducherry Beach, Puducherry",80,525,Day 19,0
+"Puducherry Beach, Puducherry",39,961,Day 20,0
+"Puducherry Beach, Puducherry",24,358,Day 21,0
+"Puducherry Beach, Puducherry",21,234,Day 22,1
+"Puducherry Beach, Puducherry",3,665,Day 23,1
+"Puducherry Beach, Puducherry",28,108,Day 24,1
+"Puducherry Beach, Puducherry",86,804,Day 25,0
+"Puducherry Beach, Puducherry",69,145,Day 26,1
+"Puducherry Beach, Puducherry",84,41,Day 27,1
+"Puducherry Beach, Puducherry",40,933,Day 28,1
+"Puducherry Beach, Puducherry",16,676,Day 29,0
+"Puducherry Beach, Puducherry",75,598,Day 30,0
+"Goubert Market, Puducherry",85,980,Day 1,0
+"Goubert Market, Puducherry",56,286,Day 2,1
+"Goubert Market, Puducherry",90,167,Day 3,1
+"Goubert Market, Puducherry",11,748,Day 4,0
+"Goubert Market, Puducherry",52,454,Day 5,1
+"Goubert Market, Puducherry",44,400,Day 6,1
+"Goubert Market, Puducherry",84,475,Day 7,1
+"Goubert Market, Puducherry",45,575,Day 8,1
+"Goubert Market, Puducherry",53,362,Day 9,0
+"Goubert Market, Puducherry",50,692,Day 10,1
+"Goubert Market, Puducherry",25,28,Day 11,0
+"Goubert Market, Puducherry",10,295,Day 12,0
+"Goubert Market, Puducherry",35,112,Day 13,0
+"Goubert Market, Puducherry",38,743,Day 14,0
+"Goubert Market, Puducherry",53,97,Day 15,0
+"Goubert Market, Puducherry",23,757,Day 16,1
+"Goubert Market, Puducherry",68,311,Day 17,0
+"Goubert Market, Puducherry",35,750,Day 18,1
+"Goubert Market, Puducherry",82,738,Day 19,1
+"Goubert Market, Puducherry",80,957,Day 20,0
+"Goubert Market, Puducherry",97,200,Day 21,1
+"Goubert Market, Puducherry",65,500,Day 22,0
+"Goubert Market, Puducherry",72,295,Day 23,0
+"Goubert Market, Puducherry",0,216,Day 24,0
+"Goubert Market, Puducherry",42,615,Day 25,1
+"Goubert Market, Puducherry",24,38,Day 26,0
+"Goubert Market, Puducherry",2,497,Day 27,0
+"Goubert Market, Puducherry",43,434,Day 28,1
+"Goubert Market, Puducherry",97,523,Day 29,0
+"Goubert Market, Puducherry",100,43,Day 30,0
+"Serenity Beach, Puducherry",48,956,Day 1,0
+"Serenity Beach, Puducherry",73,568,Day 2,0
+"Serenity Beach, Puducherry",46,11,Day 3,1
+"Serenity Beach, Puducherry",79,215,Day 4,0
+"Serenity Beach, Puducherry",7,990,Day 5,0
+"Serenity Beach, Puducherry",80,726,Day 6,0
+"Serenity Beach, Puducherry",79,709,Day 7,1
+"Serenity Beach, Puducherry",24,465,Day 8,0
+"Serenity Beach, Puducherry",11,654,Day 9,0
+"Serenity Beach, Puducherry",25,488,Day 10,0
+"Serenity Beach, Puducherry",25,46,Day 11,1
+"Serenity Beach, Puducherry",9,15,Day 12,0
+"Serenity Beach, Puducherry",16,918,Day 13,1
+"Serenity Beach, Puducherry",84,85,Day 14,1
+"Serenity Beach, Puducherry",6,781,Day 15,0
+"Serenity Beach, Puducherry",6,136,Day 16,0
+"Serenity Beach, Puducherry",47,839,Day 17,1
+"Serenity Beach, Puducherry",58,726,Day 18,0
+"Serenity Beach, Puducherry",81,222,Day 19,1
+"Serenity Beach, Puducherry",38,994,Day 20,1
+"Serenity Beach, Puducherry",58,489,Day 21,0
+"Serenity Beach, Puducherry",16,525,Day 22,0
+"Serenity Beach, Puducherry",23,994,Day 23,1
+"Serenity Beach, Puducherry",59,812,Day 24,1
+"Serenity Beach, Puducherry",2,804,Day 25,0
+"Serenity Beach, Puducherry",39,985,Day 26,0
+"Serenity Beach, Puducherry",86,363,Day 27,0
+"Serenity Beach, Puducherry",14,887,Day 28,0
+"Serenity Beach, Puducherry",3,348,Day 29,1
+"Serenity Beach, Puducherry",24,396,Day 30,1
+"Bharathi Park, Puducherry",32,15,Day 1,0
+"Bharathi Park, Puducherry",41,107,Day 2,1
+"Bharathi Park, Puducherry",65,310,Day 3,0
+"Bharathi Park, Puducherry",41,545,Day 4,1
+"Bharathi Park, Puducherry",12,140,Day 5,1
+"Bharathi Park, Puducherry",31,607,Day 6,0
+"Bharathi Park, Puducherry",38,813,Day 7,1
+"Bharathi Park, Puducherry",28,957,Day 8,0
+"Bharathi Park, Puducherry",92,317,Day 9,0
+"Bharathi Park, Puducherry",56,271,Day 10,1
+"Bharathi Park, Puducherry",9,925,Day 11,0
+"Bharathi Park, Puducherry",83,388,Day 12,0
+"Bharathi Park, Puducherry",93,688,Day 13,0
+"Bharathi Park, Puducherry",44,141,Day 14,1
+"Bharathi Park, Puducherry",29,323,Day 15,1
+"Bharathi Park, Puducherry",61,292,Day 16,0
+"Bharathi Park, Puducherry",47,704,Day 17,0
+"Bharathi Park, Puducherry",78,584,Day 18,0
+"Bharathi Park, Puducherry",48,888,Day 19,1
+"Bharathi Park, Puducherry",67,139,Day 20,0
+"Bharathi Park, Puducherry",36,60,Day 21,0
+"Bharathi Park, Puducherry",42,379,Day 22,1
+"Bharathi Park, Puducherry",38,439,Day 23,0
+"Bharathi Park, Puducherry",45,343,Day 24,0
+"Bharathi Park, Puducherry",61,844,Day 25,1
+"Bharathi Park, Puducherry",24,710,Day 26,1
+"Bharathi Park, Puducherry",3,570,Day 27,1
+"Bharathi Park, Puducherry",19,860,Day 28,0
+"Bharathi Park, Puducherry",53,884,Day 29,0
+"Bharathi Park, Puducherry",73,106,Day 30,1
+"Chunnambar Boat House, Puducherry",56,217,Day 1,0
+"Chunnambar Boat House, Puducherry",2,887,Day 2,1
+"Chunnambar Boat House, Puducherry",4,772,Day 3,1
+"Chunnambar Boat House, Puducherry",46,726,Day 4,0
+"Chunnambar Boat House, Puducherry",8,98,Day 5,1
+"Chunnambar Boat House, Puducherry",60,890,Day 6,1
+"Chunnambar Boat House, Puducherry",34,689,Day 7,1
+"Chunnambar Boat House, Puducherry",61,144,Day 8,1
+"Chunnambar Boat House, Puducherry",2,159,Day 9,0
+"Chunnambar Boat House, Puducherry",12,119,Day 10,0
+"Chunnambar Boat House, Puducherry",88,328,Day 11,1
+"Chunnambar Boat House, Puducherry",13,356,Day 12,1
+"Chunnambar Boat House, Puducherry",10,616,Day 13,1
+"Chunnambar Boat House, Puducherry",66,634,Day 14,1
+"Chunnambar Boat House, Puducherry",28,648,Day 15,0
+"Chunnambar Boat House, Puducherry",24,737,Day 16,1
+"Chunnambar Boat House, Puducherry",41,520,Day 17,0
+"Chunnambar Boat House, Puducherry",39,536,Day 18,0
+"Chunnambar Boat House, Puducherry",10,954,Day 19,1
+"Chunnambar Boat House, Puducherry",87,123,Day 20,0
+"Chunnambar Boat House, Puducherry",37,327,Day 21,0
+"Chunnambar Boat House, Puducherry",4,175,Day 22,1
+"Chunnambar Boat House, Puducherry",17,453,Day 23,0
+"Chunnambar Boat House, Puducherry",59,687,Day 24,0
+"Chunnambar Boat House, Puducherry",27,964,Day 25,0
+"Chunnambar Boat House, Puducherry",80,113,Day 26,1
+"Chunnambar Boat House, Puducherry",44,223,Day 27,1
+"Chunnambar Boat House, Puducherry",92,114,Day 28,1
+"Chunnambar Boat House, Puducherry",66,567,Day 29,1
+"Chunnambar Boat House, Puducherry",97,39,Day 30,0
+"Reddiarpalayam, Puducherry",76,748,Day 1,0
+"Reddiarpalayam, Puducherry",5,215,Day 2,0
+"Reddiarpalayam, Puducherry",79,167,Day 3,1
+"Reddiarpalayam, Puducherry",96,570,Day 4,0
+"Reddiarpalayam, Puducherry",47,680,Day 5,0
+"Reddiarpalayam, Puducherry",44,344,Day 6,0
+"Reddiarpalayam, Puducherry",41,355,Day 7,0
+"Reddiarpalayam, Puducherry",26,421,Day 8,1
+"Reddiarpalayam, Puducherry",6,132,Day 9,0
+"Reddiarpalayam, Puducherry",44,825,Day 10,0
+"Reddiarpalayam, Puducherry",30,534,Day 11,1
+"Reddiarpalayam, Puducherry",9,671,Day 12,0
+"Reddiarpalayam, Puducherry",52,669,Day 13,0
+"Reddiarpalayam, Puducherry",30,81,Day 14,1
+"Reddiarpalayam, Puducherry",1,717,Day 15,0
+"Reddiarpalayam, Puducherry",92,523,Day 16,0
+"Reddiarpalayam, Puducherry",65,223,Day 17,0
+"Reddiarpalayam, Puducherry",45,666,Day 18,0
+"Reddiarpalayam, Puducherry",16,359,Day 19,0
+"Reddiarpalayam, Puducherry",97,699,Day 20,1
+"Reddiarpalayam, Puducherry",87,364,Day 21,0
+"Reddiarpalayam, Puducherry",69,466,Day 22,1
+"Reddiarpalayam, Puducherry",70,585,Day 23,0
+"Reddiarpalayam, Puducherry",95,993,Day 24,0
+"Reddiarpalayam, Puducherry",27,571,Day 25,0
+"Reddiarpalayam, Puducherry",93,36,Day 26,0
+"Reddiarpalayam, Puducherry",21,195,Day 27,1
+"Reddiarpalayam, Puducherry",95,483,Day 28,1
+"Reddiarpalayam, Puducherry",67,730,Day 29,1
+"Reddiarpalayam, Puducherry",16,523,Day 30,1
+"Bahour, Puducherry",16,905,Day 1,1
+"Bahour, Puducherry",64,21,Day 2,1
+"Bahour, Puducherry",81,305,Day 3,1
+"Bahour, Puducherry",63,686,Day 4,0
+"Bahour, Puducherry",75,675,Day 5,0
+"Bahour, Puducherry",98,947,Day 6,0
+"Bahour, Puducherry",75,6,Day 7,0
+"Bahour, Puducherry",10,32,Day 8,1
+"Bahour, Puducherry",78,927,Day 9,0
+"Bahour, Puducherry",74,569,Day 10,0
+"Bahour, Puducherry",25,481,Day 11,1
+"Bahour, Puducherry",97,284,Day 12,1
+"Bahour, Puducherry",80,98,Day 13,0
+"Bahour, Puducherry",38,270,Day 14,0
+"Bahour, Puducherry",28,156,Day 15,0
+"Bahour, Puducherry",31,129,Day 16,0
+"Bahour, Puducherry",77,83,Day 17,1
+"Bahour, Puducherry",74,538,Day 18,0
+"Bahour, Puducherry",80,381,Day 19,1
+"Bahour, Puducherry",55,603,Day 20,0
+"Bahour, Puducherry",20,302,Day 21,1
+"Bahour, Puducherry",100,954,Day 22,1
+"Bahour, Puducherry",5,658,Day 23,0
+"Bahour, Puducherry",68,386,Day 24,0
+"Bahour, Puducherry",0,569,Day 25,1
+"Bahour, Puducherry",37,526,Day 26,1
+"Bahour, Puducherry",60,162,Day 27,1
+"Bahour, Puducherry",24,791,Day 28,1
+"Bahour, Puducherry",17,270,Day 29,1
+"Bahour, Puducherry",79,538,Day 30,1
+"Manavely, Puducherry",59,429,Day 1,0
+"Manavely, Puducherry",16,604,Day 2,0
+"Manavely, Puducherry",7,590,Day 3,0
+"Manavely, Puducherry",45,561,Day 4,1
+"Manavely, Puducherry",70,386,Day 5,0
+"Manavely, Puducherry",63,939,Day 6,0
+"Manavely, Puducherry",23,827,Day 7,1
+"Manavely, Puducherry",2,915,Day 8,1
+"Manavely, Puducherry",14,152,Day 9,1
+"Manavely, Puducherry",77,454,Day 10,0
+"Manavely, Puducherry",83,739,Day 11,0
+"Manavely, Puducherry",37,943,Day 12,0
+"Manavely, Puducherry",59,830,Day 13,1
+"Manavely, Puducherry",1,343,Day 14,1
+"Manavely, Puducherry",10,63,Day 15,0
+"Manavely, Puducherry",80,71,Day 16,0
+"Manavely, Puducherry",17,989,Day 17,1
+"Manavely, Puducherry",81,365,Day 18,0
+"Manavely, Puducherry",94,165,Day 19,1
+"Manavely, Puducherry",10,300,Day 20,0
+"Manavely, Puducherry",32,101,Day 21,0
+"Manavely, Puducherry",7,778,Day 22,1
+"Manavely, Puducherry",50,87,Day 23,0
+"Manavely, Puducherry",16,587,Day 24,0
+"Manavely, Puducherry",45,671,Day 25,0
+"Manavely, Puducherry",79,309,Day 26,1
+"Manavely, Puducherry",91,659,Day 27,0
+"Manavely, Puducherry",73,935,Day 28,1
+"Manavely, Puducherry",96,1,Day 29,0
+"Manavely, Puducherry",32,744,Day 30,0
+"Ariyankuppam, Puducherry",29,928,Day 1,0
+"Ariyankuppam, Puducherry",25,917,Day 2,0
+"Ariyankuppam, Puducherry",65,165,Day 3,0
+"Ariyankuppam, Puducherry",89,685,Day 4,1
+"Ariyankuppam, Puducherry",14,993,Day 5,1
+"Ariyankuppam, Puducherry",43,304,Day 6,1
+"Ariyankuppam, Puducherry",74,316,Day 7,0
+"Ariyankuppam, Puducherry",5,8,Day 8,1
+"Ariyankuppam, Puducherry",72,358,Day 9,0
+"Ariyankuppam, Puducherry",31,552,Day 10,1
+"Ariyankuppam, Puducherry",75,263,Day 11,1
+"Ariyankuppam, Puducherry",49,859,Day 12,1
+"Ariyankuppam, Puducherry",83,317,Day 13,0
+"Ariyankuppam, Puducherry",6,458,Day 14,1
+"Ariyankuppam, Puducherry",79,899,Day 15,1
+"Ariyankuppam, Puducherry",57,21,Day 16,1
+"Ariyankuppam, Puducherry",2,126,Day 17,0
+"Ariyankuppam, Puducherry",59,873,Day 18,1
+"Ariyankuppam, Puducherry",74,977,Day 19,1
+"Ariyankuppam, Puducherry",11,86,Day 20,1
+"Ariyankuppam, Puducherry",12,536,Day 21,0
+"Ariyankuppam, Puducherry",18,566,Day 22,1
+"Ariyankuppam, Puducherry",99,684,Day 23,1
+"Ariyankuppam, Puducherry",92,630,Day 24,0
+"Ariyankuppam, Puducherry",54,287,Day 25,0
+"Ariyankuppam, Puducherry",43,593,Day 26,1
+"Ariyankuppam, Puducherry",17,722,Day 27,1
+"Ariyankuppam, Puducherry",36,351,Day 28,1
+"Ariyankuppam, Puducherry",58,642,Day 29,1
+"Ariyankuppam, Puducherry",73,754,Day 30,0
+"Thavalakuppam, Puducherry",60,92,Day 1,1
+"Thavalakuppam, Puducherry",62,206,Day 2,0
+"Thavalakuppam, Puducherry",6,331,Day 3,0
+"Thavalakuppam, Puducherry",93,724,Day 4,0
+"Thavalakuppam, Puducherry",57,956,Day 5,1
+"Thavalakuppam, Puducherry",19,804,Day 6,1
+"Thavalakuppam, Puducherry",91,363,Day 7,1
+"Thavalakuppam, Puducherry",19,955,Day 8,1
+"Thavalakuppam, Puducherry",49,688,Day 9,0
+"Thavalakuppam, Puducherry",95,616,Day 10,1
+"Thavalakuppam, Puducherry",97,511,Day 11,1
+"Thavalakuppam, Puducherry",65,334,Day 12,1
+"Thavalakuppam, Puducherry",35,773,Day 13,0
+"Thavalakuppam, Puducherry",41,754,Day 14,0
+"Thavalakuppam, Puducherry",57,245,Day 15,0
+"Thavalakuppam, Puducherry",11,642,Day 16,0
+"Thavalakuppam, Puducherry",17,551,Day 17,0
+"Thavalakuppam, Puducherry",14,736,Day 18,0
+"Thavalakuppam, Puducherry",25,519,Day 19,1
+"Thavalakuppam, Puducherry",93,598,Day 20,1
+"Thavalakuppam, Puducherry",43,525,Day 21,1
+"Thavalakuppam, Puducherry",1,374,Day 22,0
+"Thavalakuppam, Puducherry",68,933,Day 23,0
+"Thavalakuppam, Puducherry",40,317,Day 24,1
+"Thavalakuppam, Puducherry",59,380,Day 25,0
+"Thavalakuppam, Puducherry",13,503,Day 26,0
+"Thavalakuppam, Puducherry",88,83,Day 27,1
+"Thavalakuppam, Puducherry",69,144,Day 28,0
+"Thavalakuppam, Puducherry",88,27,Day 29,1
+"Thavalakuppam, Puducherry",34,228,Day 30,0
+"Veerampattinam, Puducherry",64,423,Day 1,1
+"Veerampattinam, Puducherry",55,675,Day 2,0
+"Veerampattinam, Puducherry",22,302,Day 3,0
+"Veerampattinam, Puducherry",10,9,Day 4,0
+"Veerampattinam, Puducherry",13,591,Day 5,1
+"Veerampattinam, Puducherry",92,777,Day 6,1
+"Veerampattinam, Puducherry",93,360,Day 7,0
+"Veerampattinam, Puducherry",4,275,Day 8,1
+"Veerampattinam, Puducherry",42,971,Day 9,0
+"Veerampattinam, Puducherry",56,575,Day 10,1
+"Veerampattinam, Puducherry",83,283,Day 11,0
+"Veerampattinam, Puducherry",36,686,Day 12,0
+"Veerampattinam, Puducherry",75,164,Day 13,0
+"Veerampattinam, Puducherry",43,823,Day 14,1
+"Veerampattinam, Puducherry",78,901,Day 15,1
+"Veerampattinam, Puducherry",60,915,Day 16,1
+"Veerampattinam, Puducherry",77,641,Day 17,0
+"Veerampattinam, Puducherry",36,19,Day 18,1
+"Veerampattinam, Puducherry",28,0,Day 19,0
+"Veerampattinam, Puducherry",34,197,Day 20,0
+"Veerampattinam, Puducherry",58,836,Day 21,0
+"Veerampattinam, Puducherry",50,205,Day 22,1
+"Veerampattinam, Puducherry",19,692,Day 23,1
+"Veerampattinam, Puducherry",87,250,Day 24,0
+"Veerampattinam, Puducherry",97,216,Day 25,1
+"Veerampattinam, Puducherry",28,184,Day 26,0
+"Veerampattinam, Puducherry",94,183,Day 27,0
+"Veerampattinam, Puducherry",42,177,Day 28,0
+"Veerampattinam, Puducherry",43,293,Day 29,1
+"Veerampattinam, Puducherry",22,383,Day 30,1
+"Kottakuppam, Puducherry",44,307,Day 1,1
+"Kottakuppam, Puducherry",49,745,Day 2,1
+"Kottakuppam, Puducherry",7,340,Day 3,0
+"Kottakuppam, Puducherry",7,668,Day 4,1
+"Kottakuppam, Puducherry",4,494,Day 5,1
+"Kottakuppam, Puducherry",46,801,Day 6,0
+"Kottakuppam, Puducherry",54,118,Day 7,1
+"Kottakuppam, Puducherry",42,969,Day 8,1
+"Kottakuppam, Puducherry",81,144,Day 9,1
+"Kottakuppam, Puducherry",7,302,Day 10,1
+"Kottakuppam, Puducherry",75,986,Day 11,1
+"Kottakuppam, Puducherry",88,813,Day 12,1
+"Kottakuppam, Puducherry",32,0,Day 13,0
+"Kottakuppam, Puducherry",30,975,Day 14,1
+"Kottakuppam, Puducherry",52,303,Day 15,0
+"Kottakuppam, Puducherry",89,957,Day 16,1
+"Kottakuppam, Puducherry",65,703,Day 17,1
+"Kottakuppam, Puducherry",62,584,Day 18,0
+"Kottakuppam, Puducherry",40,88,Day 19,1
+"Kottakuppam, Puducherry",12,584,Day 20,0
+"Kottakuppam, Puducherry",76,158,Day 21,0
+"Kottakuppam, Puducherry",74,323,Day 22,1
+"Kottakuppam, Puducherry",3,613,Day 23,0
+"Kottakuppam, Puducherry",69,481,Day 24,1
+"Kottakuppam, Puducherry",12,1000,Day 25,0
+"Kottakuppam, Puducherry",82,364,Day 26,0
+"Kottakuppam, Puducherry",0,343,Day 27,1
+"Kottakuppam, Puducherry",53,454,Day 28,0
+"Kottakuppam, Puducherry",84,654,Day 29,0
+"Kottakuppam, Puducherry",75,710,Day 30,0
+"Periyamudaliar Chavadi, Puducherry",20,914,Day 1,1
+"Periyamudaliar Chavadi, Puducherry",92,472,Day 2,0
+"Periyamudaliar Chavadi, Puducherry",48,735,Day 3,0
+"Periyamudaliar Chavadi, Puducherry",34,939,Day 4,1
+"Periyamudaliar Chavadi, Puducherry",89,266,Day 5,0
+"Periyamudaliar Chavadi, Puducherry",71,621,Day 6,1
+"Periyamudaliar Chavadi, Puducherry",73,961,Day 7,1
+"Periyamudaliar Chavadi, Puducherry",8,2,Day 8,0
+"Periyamudaliar Chavadi, Puducherry",25,327,Day 9,1
+"Periyamudaliar Chavadi, Puducherry",65,453,Day 10,1
+"Periyamudaliar Chavadi, Puducherry",92,153,Day 11,0
+"Periyamudaliar Chavadi, Puducherry",11,132,Day 12,1
+"Periyamudaliar Chavadi, Puducherry",47,292,Day 13,0
+"Periyamudaliar Chavadi, Puducherry",43,739,Day 14,0
+"Periyamudaliar Chavadi, Puducherry",42,943,Day 15,0
+"Periyamudaliar Chavadi, Puducherry",69,813,Day 16,1
+"Periyamudaliar Chavadi, Puducherry",42,20,Day 17,0
+"Periyamudaliar Chavadi, Puducherry",79,814,Day 18,0
+"Periyamudaliar Chavadi, Puducherry",14,792,Day 19,1
+"Periyamudaliar Chavadi, Puducherry",74,50,Day 20,0
+"Periyamudaliar Chavadi, Puducherry",67,788,Day 21,0
+"Periyamudaliar Chavadi, Puducherry",85,786,Day 22,1
+"Periyamudaliar Chavadi, Puducherry",77,892,Day 23,1
+"Periyamudaliar Chavadi, Puducherry",51,493,Day 24,0
+"Periyamudaliar Chavadi, Puducherry",28,750,Day 25,1
+"Periyamudaliar Chavadi, Puducherry",34,647,Day 26,1
+"Periyamudaliar Chavadi, Puducherry",35,669,Day 27,1
+"Periyamudaliar Chavadi, Puducherry",1,944,Day 28,0
+"Periyamudaliar Chavadi, Puducherry",3,89,Day 29,0
+"Periyamudaliar Chavadi, Puducherry",93,458,Day 30,0
+"Ariyur, Puducherry",94,107,Day 1,1
+"Ariyur, Puducherry",38,908,Day 2,0
+"Ariyur, Puducherry",70,958,Day 3,1
+"Ariyur, Puducherry",41,444,Day 4,1
+"Ariyur, Puducherry",55,35,Day 5,1
+"Ariyur, Puducherry",67,885,Day 6,0
+"Ariyur, Puducherry",53,384,Day 7,1
+"Ariyur, Puducherry",44,361,Day 8,0
+"Ariyur, Puducherry",12,886,Day 9,1
+"Ariyur, Puducherry",20,725,Day 10,1
+"Ariyur, Puducherry",8,25,Day 11,0
+"Ariyur, Puducherry",14,9,Day 12,1
+"Ariyur, Puducherry",41,583,Day 13,1
+"Ariyur, Puducherry",79,48,Day 14,1
+"Ariyur, Puducherry",90,292,Day 15,1
+"Ariyur, Puducherry",49,663,Day 16,0
+"Ariyur, Puducherry",99,59,Day 17,0
+"Ariyur, Puducherry",73,856,Day 18,1
+"Ariyur, Puducherry",18,675,Day 19,1
+"Ariyur, Puducherry",96,438,Day 20,1
+"Ariyur, Puducherry",68,686,Day 21,0
+"Ariyur, Puducherry",98,107,Day 22,1
+"Ariyur, Puducherry",32,630,Day 23,0
+"Ariyur, Puducherry",80,661,Day 24,1
+"Ariyur, Puducherry",36,654,Day 25,0
+"Ariyur, Puducherry",91,454,Day 26,1
+"Ariyur, Puducherry",10,649,Day 27,0
+"Ariyur, Puducherry",77,76,Day 28,0
+"Ariyur, Puducherry",56,253,Day 29,0
+"Ariyur, Puducherry",1,319,Day 30,0
+"Nellithope, Puducherry",6,596,Day 1,1
+"Nellithope, Puducherry",66,553,Day 2,1
+"Nellithope, Puducherry",38,936,Day 3,0
+"Nellithope, Puducherry",74,998,Day 4,1
+"Nellithope, Puducherry",59,301,Day 5,0
+"Nellithope, Puducherry",67,217,Day 6,1
+"Nellithope, Puducherry",41,287,Day 7,0
+"Nellithope, Puducherry",35,743,Day 8,0
+"Nellithope, Puducherry",96,675,Day 9,0
+"Nellithope, Puducherry",72,647,Day 10,0
+"Nellithope, Puducherry",69,424,Day 11,0
+"Nellithope, Puducherry",67,780,Day 12,0
+"Nellithope, Puducherry",59,641,Day 13,1
+"Nellithope, Puducherry",4,427,Day 14,0
+"Nellithope, Puducherry",31,148,Day 15,1
+"Nellithope, Puducherry",71,561,Day 16,0
+"Nellithope, Puducherry",43,380,Day 17,1
+"Nellithope, Puducherry",2,341,Day 18,1
+"Nellithope, Puducherry",1,726,Day 19,1
+"Nellithope, Puducherry",1,613,Day 20,0
+"Nellithope, Puducherry",34,353,Day 21,0
+"Nellithope, Puducherry",29,115,Day 22,1
+"Nellithope, Puducherry",21,811,Day 23,1
+"Nellithope, Puducherry",35,452,Day 24,0
+"Nellithope, Puducherry",92,286,Day 25,0
+"Nellithope, Puducherry",54,207,Day 26,1
+"Nellithope, Puducherry",61,669,Day 27,0
+"Nellithope, Puducherry",54,911,Day 28,1
+"Nellithope, Puducherry",16,399,Day 29,1
+"Nellithope, Puducherry",7,979,Day 30,0
+"Jeevanandham Street, Puducherry",15,541,Day 1,0
+"Jeevanandham Street, Puducherry",22,347,Day 2,0
+"Jeevanandham Street, Puducherry",4,979,Day 3,1
+"Jeevanandham Street, Puducherry",64,632,Day 4,1
+"Jeevanandham Street, Puducherry",20,83,Day 5,1
+"Jeevanandham Street, Puducherry",21,977,Day 6,1
+"Jeevanandham Street, Puducherry",31,160,Day 7,0
+"Jeevanandham Street, Puducherry",15,459,Day 8,1
+"Jeevanandham Street, Puducherry",97,508,Day 9,1
+"Jeevanandham Street, Puducherry",35,480,Day 10,0
+"Jeevanandham Street, Puducherry",65,360,Day 11,0
+"Jeevanandham Street, Puducherry",1,986,Day 12,0
+"Jeevanandham Street, Puducherry",72,448,Day 13,0
+"Jeevanandham Street, Puducherry",66,179,Day 14,1
+"Jeevanandham Street, Puducherry",22,665,Day 15,1
+"Jeevanandham Street, Puducherry",81,310,Day 16,1
+"Jeevanandham Street, Puducherry",34,405,Day 17,0
+"Jeevanandham Street, Puducherry",14,341,Day 18,1
+"Jeevanandham Street, Puducherry",100,243,Day 19,1
+"Jeevanandham Street, Puducherry",11,238,Day 20,0
+"Jeevanandham Street, Puducherry",41,677,Day 21,1
+"Jeevanandham Street, Puducherry",44,802,Day 22,1
+"Jeevanandham Street, Puducherry",87,669,Day 23,1
+"Jeevanandham Street, Puducherry",5,66,Day 24,1
+"Jeevanandham Street, Puducherry",6,947,Day 25,1
+"Jeevanandham Street, Puducherry",72,398,Day 26,0
+"Jeevanandham Street, Puducherry",34,577,Day 27,0
+"Jeevanandham Street, Puducherry",1,930,Day 28,1
+"Jeevanandham Street, Puducherry",77,787,Day 29,1
+"Jeevanandham Street, Puducherry",9,536,Day 30,1
+"Chetty Street, Puducherry",24,252,Day 1,1
+"Chetty Street, Puducherry",32,163,Day 2,0
+"Chetty Street, Puducherry",13,832,Day 3,1
+"Chetty Street, Puducherry",79,821,Day 4,1
+"Chetty Street, Puducherry",51,898,Day 5,0
+"Chetty Street, Puducherry",40,901,Day 6,0
+"Chetty Street, Puducherry",12,116,Day 7,1
+"Chetty Street, Puducherry",7,916,Day 8,1
+"Chetty Street, Puducherry",67,536,Day 9,0
+"Chetty Street, Puducherry",67,172,Day 10,1
+"Chetty Street, Puducherry",11,799,Day 11,1
+"Chetty Street, Puducherry",95,91,Day 12,0
+"Chetty Street, Puducherry",30,845,Day 13,1
+"Chetty Street, Puducherry",17,988,Day 14,1
+"Chetty Street, Puducherry",62,389,Day 15,1
+"Chetty Street, Puducherry",92,42,Day 16,1
+"Chetty Street, Puducherry",1,59,Day 17,0
+"Chetty Street, Puducherry",82,286,Day 18,0
+"Chetty Street, Puducherry",4,466,Day 19,1
+"Chetty Street, Puducherry",9,344,Day 20,1
+"Chetty Street, Puducherry",10,689,Day 21,0
+"Chetty Street, Puducherry",30,55,Day 22,0
+"Chetty Street, Puducherry",72,982,Day 23,0
+"Chetty Street, Puducherry",8,98,Day 24,0
+"Chetty Street, Puducherry",72,155,Day 25,1
+"Chetty Street, Puducherry",6,79,Day 26,1
+"Chetty Street, Puducherry",96,259,Day 27,1
+"Chetty Street, Puducherry",39,784,Day 28,0
+"Chetty Street, Puducherry",51,220,Day 29,1
+"Chetty Street, Puducherry",35,123,Day 30,1
